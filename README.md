@@ -35,3 +35,9 @@ A storage of all the crawling 1078 answers.
 ### rawAnswerBackup.csv
 
 A backup file of rawAnswer.csv, since it is written automatically by code.
+
+### process.ipynb
+
+Code to process the crawled answers down to features.
+
+To be finished.
