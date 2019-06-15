@@ -41,3 +41,11 @@ A backup file of rawAnswer.csv, since it is written automatically by code.
 Code to process the crawled answers down to features.
 
 To be finished.
+
+### Admission_Predict_Ver1.1.csv
+
+Data from https://www.kaggle.com/mohansacharya/graduate-admissions
+
+### KNN.ipynb
+
+File to analyze the data from Admission_Predict_Ver1.1.csv
